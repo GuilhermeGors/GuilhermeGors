@@ -37,7 +37,7 @@
 <div align="center">
   [<img src="https://profile-counter.glitch.me/GuilhermeGors/count.svg?" alt="Visitor count" />]
 </div>
-[<img src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true">](https://github.com/GuilhermeGors/github-readme-stats)
+[<img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&theme=default&show_icons=true">](https://github.com/GuilhermeGors/github-readme-stats)
 
 <div align="center">
   <img height="200" src="https://media.tenor.com/_7Fjti7kTzsAAAAM/raccoon-cute.gif" alt="Raccoon gif" />
