@@ -15,16 +15,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="GitHub Stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeGors&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="Top Languages" /> 
-  <img src="https://streak-stats.demolab.com?user=GuilhermeGors&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak" /> 
-</div>
-
-### 📅 Commit Calendar (Isometric View)
 
 <div align="center">
   <img src="https://github.com/GuilhermeGors/GuilhermeGors/blob/main/commit-calendar.svg" alt="Isometric Commit Calendar" />
 </div>
+</div>
+
+### 📅 Commit Calendar (Isometric View)
+
 
 ### 🌐 Connect with me
 
@@ -39,9 +37,7 @@
 <div align="center">
   [<img src="https://profile-counter.glitch.me/GuilhermeGors/count.svg?" alt="Visitor count" />]
 </div>
-[<img src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true">](https://github.com/anuraghazra/github-readme-stats)
-
-### 🦝 Fun Fact
+<img src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true">](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <img height="200" src="https://media.tenor.com/_7Fjti7kTzsAAAAM/raccoon-cute.gif" alt="Raccoon gif" />
