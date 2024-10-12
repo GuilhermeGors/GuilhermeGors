@@ -11,15 +11,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo"  />
 </div>
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/GuilhermeGors/github-readme-stats)
-
-### 🌐 Connect with me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/guilhermegors/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"  />
-  </a>
-</div>
 
 ### 📊 GitHub Stats
 
@@ -33,6 +24,14 @@
 
 <div align="center">
   <img src="https://github.com/GuilhermeGors/GuilhermeGors/blob/main/commit-calendar.svg" alt="Isometric Commit Calendar" />
+</div>
+
+### 🌐 Connect with me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/guilhermegors/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"  />
+  </a>
 </div>
 
 ### 🔥 Profile Visitors
