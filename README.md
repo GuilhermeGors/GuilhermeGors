@@ -1,7 +1,7 @@
 ## Hello World! 👋
 
 <p align="left">Currently a Cadet at 42 São Paulo</p>
-
+=
 ### grath
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&theme=default&show_icons=true">
