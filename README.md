@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World!👋
 
 <!--
 **GuilhermeGors/GuilhermeGors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">Hello World!!</p>
-<p align="left">n Cadet at 42 São Paulo</p>
-
+<p align="left">Currently Cadet at 42 São Paulo</p>
 
 ###
 
