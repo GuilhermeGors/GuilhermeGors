@@ -34,11 +34,12 @@
   </a>
 </div>
 
-### 🔥 Profile Visitors
+###  Profile Visitors
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/GuilhermeGors/count.svg?" alt="Visitor count" />
+  [<img src="https://profile-counter.glitch.me/GuilhermeGors/count.svg?" alt="Visitor count" />]
 </div>
+[<img src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true">](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🦝 Fun Fact
 
