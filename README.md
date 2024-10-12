@@ -11,6 +11,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo"  />
 </div>
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/GuilhermeGors/github-readme-stats)
 
 ### 🌐 Connect with me
 
