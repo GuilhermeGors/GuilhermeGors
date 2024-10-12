@@ -49,10 +49,5 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/GuilhermeGors/count.svg?"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/_7Fjti7kTzsAAAAM/raccoon-cute.gif"  />
-</div>
 
 ###
