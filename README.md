@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">Hello World!!\n Cadet at 42 São Paulo</p>
+<p align="left">Hello World!!</p>
+<p align="left">n Cadet at 42 São Paulo</p>
+
 
 ###
 
