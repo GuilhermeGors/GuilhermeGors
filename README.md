@@ -2,6 +2,10 @@
 
 <p align="left">Currently a Cadet at 42 São Paulo</p>
 
+### grath
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&theme=default&show_icons=true">
+</div>
 ### 🛠️ Technologies & Tools
 
 <div align="left">
@@ -38,10 +42,7 @@
   [<img src="https://profile-counter.glitch.me/GuilhermeGors/count.svg?" alt="Visitor count" />]
 </div>
 
-### grath
-<div align="left">
-[<img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&theme=default&show_icons=true">](https://github.com/GuilhermeGors/github-readme-stats)
-</div>
+
 
 <div align="center">
   <img height="200" src="https://media.tenor.com/_7Fjti7kTzsAAAAM/raccoon-cute.gif" alt="Raccoon gif" />
