@@ -3,11 +3,9 @@
 <p align="center">Currently a Cadet at 42 São Paulo</p>
 
 <div>style="line-height: 1.5;"
-<p align="center"></p>
-<p align="center"></p>
-<p align="center">📊 GitHub Stats</p>
-<p align="center">__________________________________________________</p>
-</div> 
+  <p align="center">📊 GitHub Stats</p>
+  <p align="center">__________________________________________________</p>
+</div> </div> 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&theme=default&show_icons=true" height="195px">
