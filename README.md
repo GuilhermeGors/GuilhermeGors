@@ -2,7 +2,9 @@
 
 <p align="left">Currently a Cadet at 42 São Paulo</p>
 =
-### grath
+### 📊 GitHub Stats
+
+<div align="center">
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&theme=default&show_icons=true" height="195px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&hide=html&layout=compact&theme=default" height="195px">
@@ -19,9 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo"  />
 </div>
 
-### 📊 GitHub Stats
 
-<div align="center">
 
 <div align="center">
   <img src="https://github.com/GuilhermeGors/GuilhermeGors/blob/main/commit-calendar.svg" alt="Isometric Commit Calendar" />
