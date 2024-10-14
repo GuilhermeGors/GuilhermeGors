@@ -1,4 +1,3 @@
-## Hello World! 👋
 
 <p align="center">Currently a Cadet at 42 São Paulo</p>
 <div style="line-height: 0.5;">
