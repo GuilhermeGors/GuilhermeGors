@@ -4,9 +4,10 @@
 =
 ### grath
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&theme=default&show_icons=true" width="50%" height="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&hide=html&layout=compact&theme=default" width="50%" height="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&theme=default&show_icons=true" height="195px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&hide=html&layout=compact&theme=default" height="195px">
 </div>
+
 
 ### 🛠️ Technologies & Tools
 
