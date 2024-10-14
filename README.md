@@ -2,8 +2,9 @@
 
 <p align="center">Currently a Cadet at 42 São Paulo</p>
 <div style="line-height: 0.5;">
-  <p align="center">📊 GitHub Stats</p>
  <hr>
+  <p align="center">📊 GitHub Stats</p>
+ 
 </div>
 
 <div align="center">
@@ -12,8 +13,8 @@
 </div> 
 
 <br> 
-<p align="center">🛠️ Technologies & Tools</p>
 <hr>
+<p align="center">🛠️ Technologies & Tools</p>
 <br>
 
 <div align="center">
@@ -25,8 +26,8 @@
 </div>
 
 <br> 
-<p align="center">🌐 Connect with me</p>
 <hr>
+<p align="center">🌐 Connect with me</p>
 <br>
 
 <div align="center">
@@ -36,8 +37,8 @@
 </div>
 
 <br> 
-<p align="center">Profile Visitors</p>
 <hr>
+<p align="center">Profile Visitors</p>
 <br>
 
 <div align="center">
