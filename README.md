@@ -11,10 +11,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&hide=html&layout=compact&theme=default" height="195px">
 </div> 
 <br> 
-<p align="center">__________________________________________________</p>
+<hr>
 <br>
 <p align="center">🛠️ Technologies & Tools</p>
-<p align="center">__________________________________________________</p>
+<hr>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
@@ -25,7 +25,7 @@
 </div>
 
 <br> 
-<p align="center">__________________________________________________</p>
+<hr>
 <br>
 
 <p align="center">🌐 Connect with me</p>
@@ -37,7 +37,7 @@
 </div>
 
 <br> 
-<p align="center">__________________________________________________</p>
+<hr>
 <br>
 
 <p align="center">Profile Visitors</p>
