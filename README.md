@@ -2,7 +2,7 @@
 
 <p align="center">Currently a Cadet at 42 São Paulo</p>
 
-<div>style="line-height: 1.5;"
+<div>style="line-height: 1.5"
   <p align="center">📊 GitHub Stats</p>
   <p align="center">__________________________________________________</p>
 </div> </div> 
