@@ -17,9 +17,23 @@
 <br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
- <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=black&style=for-the-badge" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
 </div>
 
 <br> 
