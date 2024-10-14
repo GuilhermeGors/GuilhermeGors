@@ -6,6 +6,11 @@
  <hr>
 </div>
 
+<div style="text-align: center; position: relative;">
+  <p style="margin: 0; position: absolute; top: -10px; left: 50%; transform: translateX(-50%);">📊 GitHub Stats</p>
+  <hr style="margin-top: 10px; margin-bottom: 10px;"> <!-- Ajuste o margin-top conforme necessário -->
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&theme=default&show_icons=true" height="195px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&hide=html&layout=compact&theme=default" height="195px">
