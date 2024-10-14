@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo"  />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/GuilhermeGors/GuilhermeGors/blob/main/commit-calendar.svg" alt="Isometric Commit Calendar" />
 </div>
 </div>
@@ -36,7 +36,7 @@
 ###  Profile Visitors
 
 <div align="center">
-  [<img src="https://profile-counter.glitch.me/GuilhermeGors/count.svg?" alt="Visitor count" />]
+  <img src="https://profile-counter.glitch.me/GuilhermeGors/count.svg?" alt="Visitor count" />
 </div>
 
 
