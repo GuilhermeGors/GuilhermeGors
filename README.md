@@ -2,14 +2,15 @@
 
 <p align="left">Currently a Cadet at 42 São Paulo</p>
 
-### 📊 GitHub Stats
+<p align="center">📊 GitHub Stats</p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&theme=default&show_icons=true" height="195px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&hide=html&layout=compact&theme=default" height="195px">
 </div> 
 
-### 🛠️ Technologies & Tools
+<p align="center">🛠️ Technologies & Tools</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
@@ -19,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" />
 </div>
 
-### 🌐 Connect with me
+<p align="center">🌐 Connect with me</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilhermegors/" target="_blank">
@@ -27,7 +28,7 @@
   </a>
 </div>
 
-### Profile Visitors
+<p align="center">Profile Visitors</p>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/GuilhermeGors/count.svg?" alt="Visitor count" />
