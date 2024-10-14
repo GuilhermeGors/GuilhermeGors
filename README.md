@@ -5,7 +5,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&theme=default&show_icons=true" height="195px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&hide=html&layout=compact&theme=default" height="195px">
 </div>
