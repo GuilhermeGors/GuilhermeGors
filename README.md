@@ -13,7 +13,7 @@
 
 ### 🛠️ Technologies & Tools
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
@@ -23,7 +23,7 @@
 
 ### 🌐 Connect with me
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/guilhermegors/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"  />
   </a>
