@@ -10,8 +10,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&theme=default&show_icons=true" height="195px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&hide=html&layout=compact&theme=default" height="195px">
 </div> 
-<br><br> 
+<br> 
 <p align="center">__________________________________________________</p>
+<br>
 <p align="center">🛠️ Technologies & Tools</p>
 
 <div align="center">
@@ -21,8 +22,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" />
 </div>
-<p align="center"></p>
-<p align="center"></p>
+
+<br> 
+<p align="center">__________________________________________________</p>
+<br>
+
 <p align="center">🌐 Connect with me</p>
 
 <div align="center">
@@ -30,8 +34,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
 </div>
-###
-###
+
+<br> 
+<p align="center">__________________________________________________</p>
+<br>
+
 <p align="center">Profile Visitors</p>
 
 <div align="center">
