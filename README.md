@@ -1,7 +1,7 @@
 ## Hello World! 👋
 
 <p align="left">Currently a Cadet at 42 São Paulo</p>
-=
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -21,16 +21,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo"  />
 </div>
 
-
-
 <div align="center">
   <img src="https://github.com/GuilhermeGors/GuilhermeGors/blob/main/commit-calendar.svg" alt="Isometric Commit Calendar" />
 </div>
 </div>
-
-### 📅 Commit Calendar (Isometric View)
-
-
 ### 🌐 Connect with me
 
 <div align="left">
