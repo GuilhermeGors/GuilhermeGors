@@ -4,6 +4,7 @@
 <p align="center"></p>
 <p align="center"></p>
 <p align="center">📊 GitHub Stats</p>
+<p align="center">__________________________________________________</p>
 
 
 <div align="center">
@@ -14,6 +15,7 @@
 <p align="center">__________________________________________________</p>
 <br>
 <p align="center">🛠️ Technologies & Tools</p>
+<p align="center">__________________________________________________</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
