@@ -5,7 +5,7 @@
 ### grath
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&theme=default&show_icons=true" width="48%" height="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&hide=html&layout=compact&theme=default" width="48%" height="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&hide=html&layout=compact&theme=default" width="55%" height="50%">
 </div>
 
 ### 🛠️ Technologies & Tools
