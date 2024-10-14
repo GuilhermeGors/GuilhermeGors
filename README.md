@@ -8,7 +8,7 @@
 
 <div style="text-align: center; position: relative;">
   <p style="margin: 0; position: absolute; top: -10px; left: 50%; transform: translateX(-50%);">📊 GitHub Stats</p>
-  <hr style="margin-top: 10px; margin-bottom: 10px;"> <!-- Ajuste o margin-top conforme necessário -->
+  <hr style="margin-top: 2px; margin-bottom: 10px;"> <!-- Ajuste o margin-top conforme necessário -->
 </div>
 
 <div align="center">
