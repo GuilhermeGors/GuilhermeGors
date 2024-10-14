@@ -2,7 +2,7 @@
 
 <p align="left">Currently a Cadet at 42 São Paulo</p>
 
-### 📊 GitHub Stats
+###  📊 GitHub Stats
 
 <div align="center">
 <div align="center">
