@@ -21,10 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo"  />
 </div>
 
-<div align="left">
-  <img src="https://github.com/GuilhermeGors/GuilhermeGors/blob/main/commit-calendar.svg" alt="Isometric Commit Calendar" />
-</div>
-</div>
 ### 🌐 Connect with me
 
 <div align="left">
