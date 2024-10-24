@@ -4,7 +4,9 @@
  <hr>
   <p align="center">📊 GitHub Stats</p>
 </div>
+<p align="center">testeeeeeeeeeeeeeeeee</p>
 
+![GuilhermeGors's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegors&show_icons=true&theme=transparent)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&theme=dark&show_icons=true" height="195px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&hide=html&layout=compact&theme=dark" height="195px">
