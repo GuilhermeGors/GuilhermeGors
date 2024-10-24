@@ -4,7 +4,7 @@
  <hr>
   <p align="center">📊 GitHub Stats</p>
 </div>
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors)](https://github.com/GuilhermeGors/github-readme-stats)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors)](https://github.com/GuilhermeGors/github-readme-stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&theme=dark&show_icons=true" height="195px">
