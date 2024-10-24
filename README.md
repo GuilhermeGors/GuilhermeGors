@@ -3,7 +3,6 @@
 <div style="line-height: 0.5;">
  <hr>
   <p align="center">📊 GitHub Stats</p>
- 
 </div>
 
 <div align="center">
