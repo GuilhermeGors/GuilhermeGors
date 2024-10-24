@@ -5,9 +5,10 @@
   <p align="center">📊 GitHub Stats</p>
 </div>
 
- ![GuilhermeGors's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegors&show_icons=true&theme=dark)
- ![GuilhermeGors's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&hide=html&layout=compact&theme=dark)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&theme=dark&show_icons=true" height="195px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&hide=html&layout=compact&theme=dark" height="195px">
+</div> 
 <br> 
 <hr>
 <p align="center">🛠️ Technologies & Tools</p>
