@@ -4,10 +4,11 @@
  <hr>
   <p align="center">📊 GitHub Stats</p>
 </div>
-<p align="center">testeeeeeeeeeeeeeeeee</p>
 
-![GuilhermeGors's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegors&show_icons=true&theme=dark)
-![GuilhermeGors's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&hide=html&layout=compact&theme=dark)
+<div lign="center">
+ ![GuilhermeGors's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegors&show_icons=true&theme=dark)
+ ![GuilhermeGors's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&hide=html&layout=compact&theme=dark)
+</div>
 
 <br> 
 <hr>
