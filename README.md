@@ -7,7 +7,8 @@
 <p align="center">testeeeeeeeeeeeeeeeee</p>
 
 ![GuilhermeGors's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegors&show_icons=true&theme=dark)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&hide=html&layout=compact&theme=dark" height="195px">
+![GuilhermeGors's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&hide=html&layout=compact&theme=dark)
+
 <br> 
 <hr>
 <p align="center">🛠️ Technologies & Tools</p>
