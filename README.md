@@ -4,7 +4,6 @@
  <hr>
   <p align="center">📊 GitHub Stats</p>
 </div>
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&theme=dark&layout=compact"
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&theme=dark&show_icons=true" height="195px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&hide=html&layout=compact&theme=dark" height="195px">
