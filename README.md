@@ -3,10 +3,10 @@
  <hr>
 	<p align="center">📊 GitHub Stats</p>
 </div>
-<div align="center">
-	![My Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeGors&show_icons=true&theme=merko)
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&layout=compact&theme=merko)
-</div> 
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeGors&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&layout=compact&theme=merko)
+
 <br> 
 <hr>
 <p align="center">🛠️ Technologies & Tools</p>
