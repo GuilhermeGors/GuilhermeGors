@@ -4,8 +4,8 @@
 	<p align="center">📊 GitHub Stats</p>
 </div>
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&theme=dark&show_icons=true" height="195px">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&theme=dark&layout=compact" >
+	![My Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeGors&show_icons=true&theme=merko)
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&layout=compact&theme=merko)
 </div> 
 <br> 
 <hr>
