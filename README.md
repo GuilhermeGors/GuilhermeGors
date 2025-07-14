@@ -2,7 +2,7 @@
 <img src="https://avatars.githubusercontent.com/u/74635661?v=4" width="100" height="100" alt="Guilherme Gors Profile Picture" style="border-radius: 50%;">
 </p>
 
-<h1 align="center">Olá! Eu sou o Guilherme Gors 👋</h1>
+<h1 align="center">Hello! I'm Guilherme Gors 👋</h1>
 
 <p align="center">
 Currently a Cadet at <strong>42 São Paulo</strong>, passionate about artificial intelligence and its transformative potential. I am constantly learning and applying new knowledge in machine learning, LLMs, and innovative AI solutions, with a dream to contribute to impactful AI projects.
@@ -16,17 +16,17 @@ Currently a Cadet at <strong>42 São Paulo</strong>, passionate about artificial
 <p align="center">
 <!-- GitHub Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="Guilherme's GitHub Stats" />
+<br/>
 <!-- Top Languages Card -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&layout=compact&theme=merko&hide_border=true" alt="Guilherme's Top Languages" />
 </p>
 
 <br>
 <hr>
-<h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
+<h2 align="center">🛠️ Technologies & Tools</h2>
 <br>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo" />
 <img width="12" />
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="40" alt="googlecloud logo" />
@@ -61,13 +61,12 @@ Currently a Cadet at <strong>42 São Paulo</strong>, passionate about artificial
 <img width="12" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" height="40" alt="scikit-learn logo" />
 <img width="12" />
-<img src="https://img.shields.io/badge/LlamaIndex-6B7280?logo=llamaindex&logoColor=white&style=for-the-badge" height="40" alt="llamaindex logo" />
-
+<img src="https://img.shields.io/badge/LlamaIndex-6B7280?logo=llamaindex&logoColor-white&style-for-the-badge" height="40" alt="llamaindex logo" />
 </div>
 
 <br>
 <hr>
-<h2 align="center">🌐 Conecte-se Comigo</h2>
+<h2 align="center">🌐 Connect With Me</h2>
 <br>
 
 <div align="center">
@@ -86,7 +85,7 @@ Currently a Cadet at <strong>42 São Paulo</strong>, passionate about artificial
 
 <br>
 <hr>
-<h2 align="center"> Visitantes do Perfil</h2>
+<h2 align="center">👀 Profile Visitors</h2>
 <br>
 
 <div align="center">
