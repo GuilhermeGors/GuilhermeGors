@@ -26,6 +26,7 @@ Atualmente um Cadete na <strong>42 São Paulo</strong>, apaixonado por tecnologi
 <br>
 
 <div align="center">
+
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo" />
 <img width="12" />
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="40" alt="googlecloud logo" />
@@ -47,7 +48,21 @@ Atualmente um Cadete na <strong>42 São Paulo</strong>, apaixonado por tecnologi
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo" />
 <img width="12" />
 <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo" />
-<img src="https://img.shields.io/badge/Ollama-008080?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAwIDEwMDAiPjxwYXRoIGQ9Ik01MDAgMEMyMjMuODUgMCAwIDIyMy44NSAwIDUwMHMxMjMuODUgNTAwIDUwMCA1MDAgNTAwLTEyMy44NSA1MDAtNTAwUzcyMy44NSAwIDUwMCAwem0wIDg3LjVMNDM3LjUgMTc1IDM3NSAyNjIuNSAyODcuNSAxNzUuMDEgMTc1IDI4Ny41IDI2Mi41IDM3NSAxNzUuMDIgNDYyLjUgMjg3LjUgNTc1IDM3NSA0ODcuNSAyNjIuNSA0MDIuNSAyODcuNSA0MjcuNSAzNzUgNTc1IDQzNy41IDUwMCA0ODcuNSAyODcuNSAyNjIuNSA1MDAgNDM3LjUgNzEyLjUgNTAwIDc1MCA1NjIuNSA3MTIuNSA3MTIuNSA2MjUgNzUwIDUwMCA2MjUgND" height="40" alt="ollama logo"/>
+<img width="12" />
+<img src="https://img.shields.io/badge/Ollama-008080?logo=ollama&logoColor=white&style=for-the-badge" height="40" alt="ollama logo" />
+<img width="12" />
+<img src="https://img.shields.io/badge/LangChain-00A86B?logo=langchain&logoColor=white&style=for-the-badge" height="40" alt="langchain logo" />
+<img width="12" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FDB515?logo=huggingface&logoColor=black&style=for-the-badge" height="40" alt="huggingface logo" />
+<img width="12" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="40" alt="tensorflow logo" />
+<img width="12" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="40" alt="pytorch logo" />
+<img width="12" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" height="40" alt="scikit-learn logo" />
+<img width="12" />
+<img src="https://img.shields.io/badge/LlamaIndex-6B7280?logo=llamaindex&logoColor=white&style=for-the-badge" height="40" alt="llamaindex logo" />
+
 </div>
 
 <br>
