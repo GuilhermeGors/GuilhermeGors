@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.google.com/search?q=https://avatars.githubusercontent.com/u/74635661%3Fv%3D4" width="100" height="100" alt="Guilherme Gors Profile Picture" style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/74635661?v=4" width="100" height="100" alt="Guilherme Gors Profile Picture" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Olá! Eu sou o Guilherme Gors 👋</h1>
@@ -15,10 +15,10 @@ Atualmente um Cadete na <strong>42 São Paulo</strong>, apaixonado por tecnologi
 
 <p align="center">
 <!-- GitHub Stats Card -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DGuilhermeGors%26show_icons%3Dtrue%26theme%3Dmerko%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Guilherme's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="Guilherme's GitHub Stats" />
 <br/>
 <!-- Top Languages Card -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DGuilhermeGors%26layout%3Dcompact%26theme%3Dmerko%26hide_border%3Dtrue" alt="Guilherme's Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&layout=compact&theme=merko&hide_border=true" alt="Guilherme's Top Languages" />
 </p>
 
 <br>
@@ -57,15 +57,15 @@ Atualmente um Cadete na <strong>42 São Paulo</strong>, apaixonado por tecnologi
 
 <div align="center">
 <a href="https://www.linkedin.com/in/guilhermegors/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" height="40" alt="LinkedIn logo" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn logo" />
 </a>
 <img width="12" />
 <a href="mailto:guilhermegors@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40" alt="Gmail logo" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail logo" />
 </a>
 <img width="12" />
 <a href="https://github.com/GuilhermeGors" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" height="40" alt="GitHub logo" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub logo" />
 </a>
 </div>
 
@@ -75,8 +75,7 @@ Atualmente um Cadete na <strong>42 São Paulo</strong>, apaixonado por tecnologi
 <br>
 
 <div align="center">
-<!-- Nova URL para o contador de visitas -->
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DGuilhermeGors%26color%3Dblueviolet" alt="Visitor count" />
+<img src="https://komarev.com/ghpvc/?username=GuilhermeGors&color=blueviolet" alt="Visitor count" />
 </div>
 
 <div align="center">
