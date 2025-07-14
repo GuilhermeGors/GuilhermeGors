@@ -16,7 +16,9 @@ Currently a Cadet at <strong>42 São Paulo</strong>, passionate about artificial
 <!-- GitHub Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="Guilherme's GitHub Stats" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="Guilherme's GitHub Stats" />
+<!-- WakaTime Language Stats -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <br/>
 
 <!-- Top Languages Badges -->
