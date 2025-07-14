@@ -16,7 +16,6 @@ Atualmente um Cadete na <strong>42 São Paulo</strong>, apaixonado por tecnologi
 <p align="center">
 <!-- GitHub Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="Guilherme's GitHub Stats" />
-<br/>
 <!-- Top Languages Card -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&layout=compact&theme=merko&hide_border=true" alt="Guilherme's Top Languages" />
 </p>
