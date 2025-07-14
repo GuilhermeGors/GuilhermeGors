@@ -5,7 +5,7 @@
 <h1 align="center">Olá! Eu sou o Guilherme Gors 👋</h1>
 
 <p align="center">
-Atualmente um Cadete na <strong>42 São Paulo</strong>, apaixonado por tecnologia e inovação. Busco constantemente aprender e aplicar novos conhecimentos em desenvolvimento de software, infraestrutura e computação em nuvem.
+Currently a Cadet at <strong>42 São Paulo</strong>, passionate about artificial intelligence and its transformative potential. I am constantly learning and applying new knowledge in machine learning, LLMs, and innovative AI solutions, with a dream to contribute to impactful AI projects.
 </p>
 
 <div style="line-height: 0.5;">
