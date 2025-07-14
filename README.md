@@ -16,10 +16,13 @@ Currently a Cadet at <strong>42 São Paulo</strong>, passionate about artificial
 <!-- GitHub Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="Guilherme's GitHub Stats" />
 <br/>
-<img src="https://github.com/GuilhermeGors/GuilhermeGors/blob/main/metrics.plugin.languages.svg" alt="Guilherme's Top Languages" />
-
-<!-- Top Languages Badges -->
-
+<!-- Top Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="Python" />
+<img width="12" />
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="C" />
+<img width="12" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style-for-the-badge" height="40" alt="JavaScript" />
+</p>
 <br>
 <hr>
 <h2 align="center">🛠️ Technologies & Tools</h2>
