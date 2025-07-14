@@ -47,6 +47,7 @@ Atualmente um Cadete na <strong>42 São Paulo</strong>, apaixonado por tecnologi
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo" />
 <img width="12" />
 <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo" />
+<img src="https://img.shields.io/badge/Ollama-008080?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAwIDEwMDAiPjxwYXRoIGQ9Ik01MDAgMEMyMjMuODUgMCAwIDIyMy44NSAwIDUwMHMxMjMuODUgNTAwIDUwMCA1MDAgNTAwLTEyMy44NSA1MDAtNTAwUzcyMy44NSAwIDUwMCAwem0wIDg3LjVMNDM3LjUgMTc1IDM3NSAyNjIuNSAyODcuNSAxNzUuMDEgMTc1IDI4Ny41IDI2Mi41IDM3NSAxNzUuMDIgNDYyLjUgMjg3LjUgNTc1IDM3NSA0ODcuNSAyNjIuNSA0MDIuNSAyODcuNSA0MjcuNSAzNzUgNTc1IDQzNy41IDUwMCA0ODcuNSAyODcuNSAyNjIuNSA1MDAgNDM3LjUgNzEyLjUgNTAwIDc1MCA1NjIuNSA3MTIuNSA3MTIuNSA2MjUgNzUwIDUwMCA2MjUgND
 </div>
 
 <br>
