@@ -76,7 +76,7 @@ Atualmente um Cadete na <strong>42 São Paulo</strong>, apaixonado por tecnologi
 
 <div align="center">
 <!-- Nova URL para o contador de visitas -->
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://komarev.com/ghpvc/?username=GuilhermeGors%26color=blueviolet" alt="Visitor count" />
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DGuilhermeGors%26color%3Dblueviolet" alt="Visitor count" />
 </div>
 
 <div align="center">
