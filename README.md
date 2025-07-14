@@ -71,7 +71,7 @@ Atualmente um Cadete na <strong>42 São Paulo</strong>, apaixonado por tecnologi
 
 <br>
 <hr>
-<h2 align="center">👀 Visitantes do Perfil</h2>
+<h2 align="center"> Visitantes do Perfil</h2>
 <br>
 
 <div align="center">
