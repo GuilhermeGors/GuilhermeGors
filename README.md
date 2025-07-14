@@ -19,11 +19,6 @@ Currently a Cadet at <strong>42 São Paulo</strong>, passionate about artificial
 <!-- Top Languages -->
 <img src="./github-metrics.svg" alt="GitHub Metrics" />
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="Python" />
-<img width="12" />
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="C" />
-<img width="12" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style-for-the-badge" height="40" alt="JavaScript" />
 </p>
 <br>
 <hr>
