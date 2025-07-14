@@ -61,7 +61,7 @@ Currently a Cadet at <strong>42 São Paulo</strong>, passionate about artificial
 <img width="12" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" height="40" alt="scikit-learn logo" />
 <img width="12" />
-<img src="https://img.shields.io/badge/LlamaIndex-6B7280?logo=llamaindex&logoColor-white&style-for-the-badge" height="40" alt="llamaindex logo" />
+<img src="https://img.shields.io/badge/LlamaIndex-6B7280?logo=llamaindex&logoColor=white&style=for-the-badge" height="40" alt="llamaindex logo" />
 </div>
 
 <br>
@@ -85,7 +85,7 @@ Currently a Cadet at <strong>42 São Paulo</strong>, passionate about artificial
 
 <br>
 <hr>
-<h2 align="center">👀 Profile Visitors</h2>
+<h2 align="center"> Profile Visitors</h2>
 <br>
 
 <div align="center">
