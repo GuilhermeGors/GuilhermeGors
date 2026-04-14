@@ -2,7 +2,7 @@
 
 # Guilherme Oliveira
 
-**AI Platform Engineer · Privacy-First RAG & Multi-Agent Systems · GDPR-Compliant Generative AI**
+**AI Engineer · Privacy-First RAG & Multi-Agent Systems · GDPR-Compliant Generative AI**
 
 Building enterprise AI infrastructure that runs locally, scales globally, and leaks nothing.
 
