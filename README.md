@@ -14,9 +14,15 @@ Building enterprise AI infrastructure that runs locally, scales globally, and le
 
 ---
 
-### What I Do
+### 🎯 What I Do & Impact
 
-I architect **Generative AI systems designed for environments where data cannot leave the building** — offline RAG pipelines, multi-agent orchestration, and data engineering at 200GB/day scale. Everything I build prioritizes GDPR compliance, zero data leakage, and vendor independence.
+I engineer **Generative AI platforms for highly-regulated environments**, ensuring data privacy, scalable orchestration, and independence from cloud LLM providers. The European market demands AI that respects GDPR — I build systems where **infrastructure sovereignty is the default**. 
+
+Instead of just prototyping, I approach AI Engineering with a results-driven mindset:
+
+*   **Sovereign Enterprise AI:** Companies need AI without risking proprietary data leaks. *Result:* Architected systems like **Codex One** and **IA News Agent**, utilizing open-weights models (Ollama) and on-prem ChromaDB to achieve **100% data sovereignty and zero external API dependencies**, making them audit-ready for strict compliance.
+*   **Workflow Automation at Scale:** Manual data processing bottlenecks business growth. *Result:* Built **JobMatch**, a multi-agent RAG platform that parses unstructured resumes and performs semantic ranking, reducing human evaluation time by **95%** while retaining precise skill-matching.
+*   **High-Throughput & Low-Latency AI:** Cloud API costs scale linearly; local inference requires optimization. *Result:* Implemented batch prompting, asynchronous LangGraph orchestration, and exact/semantic dual-layer caching (achieving **12ms inference latency** in Visual Tagger) to push CPU/GPU hardware to its limits.
 
 ```
 Privacy-First RAG Pipelines    ·    Multi-Agent Orchestration    ·    Data Engineering (Spark + Scala)
@@ -31,12 +37,34 @@ Local LLM Deployment           ·    Multi-Cloud Infrastructure   ·    Security
 <tr>
 <td width="50%" valign="top">
 
+### 📰 [IA News Agent](https://github.com/GuilhermeGors/IA_News)
+**Autonomous multilingual intelligence pipeline**
+
+Aggregates, enriches, and validates AI research across 10 languages and 7 source types. Uses a dual-model LLM strategy (Qwen 3B + 14B) driven by a stateful LangGraph reasoning core. Complete on-prem execution with zero data leakage.
+
+`Python` `Ollama` `LangGraph` `ChromaDB` `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔒 [Codex One](https://github.com/GuilhermeGors/Codex_One)
 **Privacy-first enterprise knowledge base — fully offline RAG**
 
 Zero external API calls. Zero data leakage. Local LLMs via Ollama combined with real-time vector retrieval across PDFs and ePubs. Precise source attribution for audit-ready compliance.
 
 `Python` `Ollama` `LangChain` `ChromaDB` `FastAPI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [JobMatch](https://github.com/GuilhermeGors/JobMatch)
+**Multi-agent RAG platform for HR automation**
+
+Automated talent screening reducing manual evaluation by 95%. Semantic search over unstructured data, dynamic ranking, LLM-agnostic inference (OpenAI / Gemini / local). Real-time analytics via WebSockets.
+
+`FastAPI` `LangChain` `React` `WebSockets` `Vector DB`
 
 </td>
 <td width="50%" valign="top">
@@ -53,12 +81,12 @@ Concurrent ViT + CLIP Zero-Shot inference with confidence-score aggregation. Par
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 JobMatch
-**Multi-agent RAG platform for HR automation**
+### 💄 [Cosmetic Cosmos](https://github.com/GuilhermeGors/Cosmetic_cosmos)
+**AI-augmented scalable sales management platform**
 
-Automated talent screening reducing manual evaluation by 95%. Semantic search over unstructured data, dynamic ranking, LLM-agnostic inference (OpenAI / Gemini / local). Real-time analytics via WebSockets.
+Distributed high-performance ScyllaDB backend handling concurrent retail transactions. Features an embedded role-aware local LLM assistant (Ollama) providing contextual KPIs and mentorship without exposing metrics to third parties.
 
-`FastAPI` `LangChain` `React` `WebSockets` `Vector DB`
+`Node.js` `Express` `ScyllaDB` `Ollama` `Docker`
 
 </td>
 <td width="50%" valign="top">
@@ -79,50 +107,69 @@ Custom standard library, Unix process pipelines, 2D rendering engine. Built at 4
 ## 🏗️ Architecture — How I Build RAG Systems
 
 ```mermaid
-graph TD
-    classDef client fill:#1a1a2e,stroke:#16213e,stroke-width:2px,color:#e0e0e0
-    classDef gateway fill:#e67e22,stroke:#d35400,stroke-width:2px,color:#fff
-    classDef orch fill:#2980b9,stroke:#1f618d,stroke-width:2px,color:#fff
-    classDef agent fill:#27ae60,stroke:#1e8449,stroke-width:2px,color:#fff
-    classDef data fill:#8e44ad,stroke:#71368a,stroke-width:2px,color:#fff
-    classDef infra fill:#c0392b,stroke:#922b21,stroke-width:2px,color:#fff
+flowchart TD
+    %% Styling
+    classDef edgeLayer fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#000
+    classDef orchestrator fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#000
+    classDef agents fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#000
+    classDef data fill:#fce4ec,stroke:#c62828,stroke-width:2px,color:#000
+    classDef model fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#000
 
-    User["Client App"]:::client
-
-    subgraph Security["Security Layer"]
-        GW["API Gateway + Auth"]:::gateway
-        Vault["Secrets Manager"]:::infra
+    subgraph Gateway ["🌐 Security & Edge Layer"]
+        direction LR
+        Client(["Client Apps"])
+        API["API Gateway<br/><i>(Auth & Rate Limits)</i>"]
+        Vault[("Secrets<br/>Manager")]
     end
 
-    subgraph Core["AI Orchestration"]
-        Orch["Semantic Router"]:::orch
-        Ctx["Context Manager"]:::orch
+    subgraph Core ["🔄 Orchestration Engine"]
+        direction TB
+        Router{"Semantic Router<br/><i>(Intent Classification)</i>"}
+        Ctx["Context Manager<br/><i>(State & Memory)</i>"]
     end
 
-    subgraph Agents["Agent Pool"]
-        RAG["RAG Agent"]:::agent
-        Eval["Analysis Agent"]:::agent
-        Compliance["GDPR Agent"]:::agent
+    subgraph Swarm ["🤖 Specialized Agent Swarm"]
+        direction LR
+        GDPR["Compliance Agent<br/><i>(PII Scrubber)</i>"]
+        RAG["RAG Agent<br/><i>(Retrieval Logic)</i>"]
+        Eval["Analysis Agent<br/><i>(Synthesis)</i>"]
     end
 
-    subgraph Store["Data Layer"]
-        VDB[("Vector DB")]:::data
-        Cache[("Redis")]:::data
-        LLM["LLM · Local or API"]:::infra
+    subgraph Storage ["💾 Hybrid Data Layer"]
+        direction LR
+        Redis[("Redis Cache<br/><i>(Low Latency)</i>")]
+        Vector[("ChromaDB<br/><i>(Semantic DB)</i>")]
     end
 
-    User -->|HTTPS / WS| GW
-    GW <-->|Keys| Vault
-    GW --> Orch
-    Orch <--> Ctx
-    Orch --> RAG
-    Orch --> Eval
-    Orch --> Compliance
-    RAG <--> VDB
-    RAG --> LLM
-    Eval --> LLM
-    Compliance -->|PII Scan| VDB
-    Orch --> Cache
+    subgraph Engine ["🧠 Local Inference"]
+        direction LR
+        LLM("Open-Weights LLMs<br/>via Ollama <i>(Zero Leakage)</i>")
+    end
+
+    %% Connections
+    Client ===>|TLS/WS| API
+    API <.->|Vault Keys| Vault
+    API --->|Requests| Router
+
+    Router <-->|Maintains| Ctx
+    Router -->|Dispatch| GDPR
+    Router -->|Dispatch| RAG
+    Router -->|Dispatch| Eval
+
+    GDPR ===>|Sanitized Query| RAG
+    
+    RAG <-->|Query/Upsert| Vector
+    Eval <-->|Check Hits| Redis
+    
+    RAG --->|Private Inference| LLM
+    Eval --->|Private Inference| LLM
+
+    %% Apply Classes
+    class Gateway,Client,API,Vault edgeLayer
+    class Core,Router,Ctx orchestrator
+    class Swarm,GDPR,RAG,Eval agents
+    class Storage,Redis,Vector data
+    class Engine,LLM model
 ```
 
 ---
@@ -184,26 +231,23 @@ graph TD
 
 ---
 
-## 📐 Technical Approach
+## 📐 Core Engineering Core Principles
 
-```
-1. PRIVACY BY DESIGN       →  Data never leaves the infrastructure. Local LLMs, on-prem vector stores.
-2. VENDOR INDEPENDENCE      →  LLM-agnostic pipelines. Swap OpenAI ↔ Gemini ↔ Ollama without code changes.
-3. SCALABLE DATA PIPELINES  →  Apache Spark + Scala for 200GB/day distributed processing.
-4. SECURITY-FIRST           →  AWS Secrets Manager, Checkmarx scans, zero hardcoded credentials.
-5. SYSTEMS THINKING         →  42 São Paulo foundations — C, Unix, memory management, no abstractions.
-```
+- **🔒 Privacy & Law by Design:** Engineered for environments where strict European GDPR dictates are mandatory. Implementing Offline LLMs and on-prem vector databases to guarantee zero third-party exposure.
+- **🔌 Vendor-Agnostic Architecture:** Building decoupled, LLM-agnostic platforms. Codebases designed such that swapping OpenAI ↔ Gemini ↔ Local Ollama requires zero restructuring.
+- **🚀 Scalability & Resiliency:** Designing hybrid architectures—from 200GB/day distributed Apache Spark systems to ultra-lightweight Dockerized microservices wrapped in circuit breakers and semantic cache layers.
+- **⚙️ First-Principles Thinking:** Grounded in the brutal *42 São Paulo methodology* (C, Unix, memory management). I don't just glue APIs together; I profoundly understand the performance parameters executing them.
 
 ---
 
 ## 🎓 Background
 
-**42 São Paulo** — Software Engineering *(Peer-to-peer, zero-professor model)*
-**Unisinos** — Analysis & Systems Development
-**Bayswater College, London** — Exchange Program
+**42 São Paulo** — Software Engineering *(Peer-to-peer, zero-professor model)*  
+**Unisinos** — Analysis & Systems Development  
+**Bayswater College, London** — Exchange Program  
 
-🥈 **Moving The Cities** — Unisinos × SAP × FH Münster (Germany) × UAS7
-🏆 **Geração Caldeira** — First Class, Institute Caldeira
+🥈 **Moving The Cities** — Unisinos × SAP × FH Münster (Germany) × UAS7  
+🏆 **Geração Caldeira** — First Class, Institute Caldeira  
 
 ---
 
@@ -220,10 +264,10 @@ Fluent in English · Eligible for relocation
 <details>
 <summary>📊 GitHub Analytics</summary>
 <br>
+
 <div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeGors&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=00000000)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&layout=compact&hide_border=true&bg_color=00000000)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&layout=compact&theme=transparent&hide_border=true&title_color=0A66C2&text_color=333333" height="150" alt="Top Languages" />
 </div>
+
 </details>
