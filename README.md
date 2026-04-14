@@ -16,7 +16,7 @@ Building enterprise AI infrastructure that runs locally, scales globally, and le
 
 ### 🎯 What I Do & Impact
 
-I engineer **Generative AI platforms for highly-regulated environments**, ensuring data privacy, scalable orchestration, and independence from cloud LLM providers. The European market demands AI that respects GDPR — I build systems where **infrastructure sovereignty is the default**. 
+I engineer **Generative AI platforms for highly-regulated environments**, ensuring data privacy, scalable orchestration, and independence from cloud LLM providers. The market demands AI that respects GDPR — I build systems where **infrastructure sovereignty is the default**. 
 
 Instead of just prototyping, I approach AI Engineering with a results-driven mindset:
 
@@ -253,7 +253,7 @@ flowchart TD
 
 <div align="center">
 
-**Open solve problems**
+**Open solve problems**<br>
 Fluent in English · Eligible anywhere :)
 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermegors/)
