@@ -253,21 +253,12 @@ flowchart TD
 
 <div align="center">
 
-**Open to AI Platform Engineer & RAG Systems roles in Europe**
-Fluent in English · Eligible for relocation
+**Open solve problems**
+Fluent in English · Eligible anywhere :)
 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermegors/)
 [![Email](https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermegors@gmail.com)
 
-</div>
-
-<details>
-<summary>📊 GitHub Analytics</summary>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGors&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGors&layout=compact&theme=transparent&hide_border=true&title_color=0A66C2&text_color=333333" height="150" alt="Top Languages" />
 </div>
 
 </details>
