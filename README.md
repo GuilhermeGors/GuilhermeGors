@@ -48,8 +48,11 @@ Aggregates, enriches, and validates AI research across 10 languages and 7 source
 <td width="50%" valign="top">
 
 ### 🔒 [Codex One](https://github.com/GuilhermeGors/Codex_One)
+
 **Privacy-first enterprise knowledge base — fully offline RAG**
+
 Zero-egress architecture with pre-ingestion Threat Quarantine and automated PII Scrubbing. Uses CPU-bound ONNX embeddings and multilingual Cross-Encoder reranking (FlashRank) to isolate GPUs exclusively for Local LLMs (Ollama), delivering audit-ready compliance and high-performance retrieval.
+
 `Python` `FastAPI` `Next.js` `Ollama` `ChromaDB` `FlashRank`
 
 </td>
