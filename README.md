@@ -109,68 +109,72 @@ Custom standard library, Unix process pipelines, 2D rendering engine. Built at 4
 
 ```mermaid
 flowchart TD
-    %% Styling
-    classDef edgeLayer fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#000
-    classDef orchestrator fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#000
-    classDef agents fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#000
-    classDef data fill:#fce4ec,stroke:#c62828,stroke-width:2px,color:#000
-    classDef model fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#000
+    %% Modern Premium Styling
+    classDef gateway fill:#1E293B,stroke:#475569,stroke-width:2px,color:#F8FAFC,rx:8,ry:8
+    classDef orchestrator fill:#334155,stroke:#64748B,stroke-width:2px,color:#F8FAFC,rx:8,ry:8
+    classDef security fill:#991B1B,stroke:#EF4444,stroke-width:2px,color:#FEF2F2,rx:8,ry:8
+    classDef pipeline fill:#0F766E,stroke:#14B8A6,stroke-width:2px,color:#F0FDFA,rx:8,ry:8
+    classDef database fill:#4338CA,stroke:#6366F1,stroke-width:2px,color:#EEF2FF,rx:8,ry:8
+    classDef inference fill:#6B21A8,stroke:#A855F7,stroke-width:2px,color:#FAF5FF,rx:8,ry:8
 
-    subgraph Gateway ["🌐 Security & Edge Layer"]
+    subgraph Edge ["🌐 API & Gateway Layer"]
         direction LR
         Client(["Client Apps"])
         API["API Gateway<br/><i>(Auth & Rate Limits)</i>"]
-        Vault[("Secrets<br/>Manager")]
     end
 
-    subgraph Core ["🔄 Orchestration Engine"]
+    subgraph Security ["🛡️ Enterprise Security"]
         direction TB
-        Router{"Semantic Router<br/><i>(Intent Classification)</i>"}
-        Ctx["Context Manager<br/><i>(State & Memory)</i>"]
+        Threat["Threat Scanner<br/><i>(Prompt Injection / Quarantine)</i>"]
+        PII["Compliance Agent<br/><i>(PII Scrubber & Masking)</i>"]
     end
 
-    subgraph Swarm ["🤖 Specialized Agent Swarm"]
+    subgraph Core ["🔄 Two-Stage RAG Pipeline"]
+        direction TB
+        Router{"Semantic Router"}
+        Embed["CPU Embeddings<br/><i>(FastEmbed / ONNX)</i>"]
+        Retrieve["Initial Retrieval<br/><i>(Top-K Similarity)</i>"]
+        Rerank["Cross-Encoder Reranker<br/><i>(FlashRank / High Precision)</i>"]
+    end
+
+    subgraph Storage ["💾 Data Sovereignty Layer"]
         direction LR
-        GDPR["Compliance Agent<br/><i>(PII Scrubber)</i>"]
-        RAG["RAG Agent<br/><i>(Retrieval Logic)</i>"]
-        Eval["Analysis Agent<br/><i>(Synthesis)</i>"]
+        Redis[("Redis<br/><i>(Session Memory)</i>")]
+        Vector[("ChromaDB<br/><i>(Local Vector Store)</i>")]
     end
 
-    subgraph Storage ["💾 Hybrid Data Layer"]
+    subgraph Engine ["🧠 Local Inference Engine"]
         direction LR
-        Redis[("Redis Cache<br/><i>(Low Latency)</i>")]
-        Vector[("ChromaDB<br/><i>(Semantic DB)</i>")]
+        LLM("Open-Weights LLMs<br/><i>(Ollama / Zero Data Egress)</i>")
     end
 
-    subgraph Engine ["🧠 Local Inference"]
-        direction LR
-        LLM("Open-Weights LLMs<br/>via Ollama <i>(Zero Leakage)</i>")
-    end
-
-    %% Connections
-    Client ===>|TLS/WS| API
-    API <.->|Vault Keys| Vault
-    API --->|Requests| Router
-
-    Router <-->|Maintains| Ctx
-    Router -->|Dispatch| GDPR
-    Router -->|Dispatch| RAG
-    Router -->|Dispatch| Eval
-
-    GDPR ===>|Sanitized Query| RAG
+    %% Flow Connections
+    Client ===>|Requests| API
+    API --->|Dispatch| Router
     
-    RAG <-->|Query/Upsert| Vector
-    Eval <-->|Check Hits| Redis
-    
-    RAG --->|Private Inference| LLM
-    Eval --->|Private Inference| LLM
+    %% Ingestion Flow
+    Router -.->|Document Upload| Threat
+    Threat -.->|Safe Data| PII
+    PII -.->|Sanitized Text| Embed
+    Embed -.->|Upsert Vectors| Vector
 
-    %% Apply Classes
-    class Gateway,Client,API,Vault edgeLayer
-    class Core,Router,Ctx orchestrator
-    class Swarm,GDPR,RAG,Eval agents
-    class Storage,Redis,Vector data
-    class Engine,LLM model
+    %% Query Flow
+    Router ===>|Query| Embed
+    Embed ===>|Dense Vectors| Retrieve
+    Retrieve <===>|Fetch Top 20| Vector
+    Retrieve ===>|Pass Chunks| Rerank
+    Rerank ===>|Top 5 Refined| LLM
+    
+    %% State
+    Router <-->|Maintains Context| Redis
+
+    %% Styling Application
+    class Edge,Client,API gateway
+    class Security,Threat,PII security
+    class Core,Router,Embed,Retrieve,Rerank pipeline
+    class Storage,Redis,Vector database
+    class Engine,LLM inference
+
 ```
 
 ---
