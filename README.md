@@ -49,10 +49,8 @@ Aggregates, enriches, and validates AI research across 10 languages and 7 source
 
 ### 🔒 [Codex One](https://github.com/GuilhermeGors/Codex_One)
 **Privacy-first enterprise knowledge base — fully offline RAG**
-
-Zero external API calls. Zero data leakage. Local LLMs via Ollama combined with real-time vector retrieval across PDFs and ePubs. Precise source attribution for audit-ready compliance.
-
-`Python` `Ollama` `LangChain` `ChromaDB` `FastAPI`
+Zero-egress architecture with pre-ingestion Threat Quarantine and automated PII Scrubbing. Uses CPU-bound ONNX embeddings and multilingual Cross-Encoder reranking (FlashRank) to isolate GPUs exclusively for Local LLMs (Ollama), delivering audit-ready compliance and high-performance retrieval.
+`Python` `FastAPI` `Next.js` `Ollama` `ChromaDB` `FlashRank`
 
 </td>
 </tr>
